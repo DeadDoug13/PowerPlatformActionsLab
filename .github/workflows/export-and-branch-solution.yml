@@ -27,6 +27,7 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: https://org26ccc007.crm.dynamics.com/
+  USERNAME: admin@CRM716207.onmicrosoft.com 
   APPID: ef1fa241-e8b9-43c8-8651-1f4b0c4fdd49
   TENANTID: 314d876b-1aa9-4b71-af7b-c68754ad1d39
 
